@@ -1,16 +1,8 @@
-#Updated 21st NOVEMBER 
-
-#Appodeal 
-
 appodeal.com, 255403, DIRECT 
-
-#BidMachine 
 
 bidmachine.io, 255403, DIRECT 
 
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0 
-
-#Resellers 
+google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
 
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d 
 
